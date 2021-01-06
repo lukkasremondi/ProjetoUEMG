@@ -1,0 +1,2 @@
+﻿1>------ Limpeza iniciada: Projeto: TrabalhoFinal, Configuração: Debug Any CPU ------
+========== Limpar: 1 com êxito, 0 com falha, 0 ignorados ==========
